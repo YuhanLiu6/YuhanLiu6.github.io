@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Seminars"
+permalink: /seminars/
 author_profile: true
 ---
 
