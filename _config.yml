@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yan Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Yan Huang"
-description              : &description "senior undergraduate student"
+description              : &description "personal description"
 url                      : https://Hv1000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hv1000/Hv1000.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
