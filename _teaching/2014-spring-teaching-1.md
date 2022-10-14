@@ -6,8 +6,6 @@ venue: "SUSTech, Department of Mathematics"
 date: 2022 Spring
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Heading 1
 ======
 
