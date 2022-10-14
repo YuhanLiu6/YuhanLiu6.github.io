@@ -1,11 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Differential Geometry"
 collection: teaching
-type: "Differential Geometry"
-permalink: /teaching/2022-spring-teaching-1
+type: "Undergraduate course"
 venue: "SUSTech, Department of Mathematics"
-date: 2022-01-01
-location: "City, Country"
+date: 2022 Spring
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
