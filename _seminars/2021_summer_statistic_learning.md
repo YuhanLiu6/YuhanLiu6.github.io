@@ -1,3 +1,3 @@
 title: "Statistical Learning Seminar"
-collection: seminar
+collection: seminars
 permalink: /seminar/statistical-learning-seminar
