@@ -8,18 +8,18 @@ author_profile: true
 Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling. 
 
 ## Research Experience
-1.Acceleration of Variable Frequency Fourier Transform (present)
+1.Acceleration of Variable Frequency Fourier Transform (Python & MATLAB) (present)
 
 ## Course Projects
-1.Numerical simulation of elliptic equation and Allen-Cahn equation
+1.Numerical simulation of elliptic equation and Allen-Cahn equation (MATLAB).
 
-2.Paper review on *[Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)*
+2.Paper review on *[Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)*.
 
-3.Programming Project of Diagnosing and Forecasting Beijing PM2.5 
+3.Programming Project of Diagnosing and Forecasting Beijing PM2.5 (Python). 
 
-4.Prediction of Decomposition Rates and Interspecific Interactions of Fungi 
+4.Prediction of Decomposition Rates and Interspecific Interactions of Fungi (MATLAB). 
 
-5.Checkers Programming Project 
+5.Checkers Programming Project (Java). 
 
 
 
