@@ -4,6 +4,8 @@ title: "Seminars"
 permalink: /seminar/
 author_profile: true
 ---
+## Topics in Applied Mathematics, 2022 Fall 
+
 ## Neural Differential Equations, 2022 Spring
 
 - Studied Patrick Kidger's thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)* and other relevant publications.
