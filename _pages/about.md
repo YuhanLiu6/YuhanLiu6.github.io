@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a senior undergraduate majoring in mathematics and applied mathematics at Southern University of Science and Technology.
+I'm now a senior undergraduate majoring in mathematics and applied mathematics at Southern University of Science and Technology, China.
