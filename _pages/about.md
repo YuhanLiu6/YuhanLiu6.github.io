@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Yan Huang's home on the web!
+I'm now a senior undergraduate majoring in mathematics and applied mathematics at Southern University of Science and Technology.
