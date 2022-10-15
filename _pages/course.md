@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mathematics Courses I have taken"
+title: "Mathematics Courses I Have Taken"
 permalink: /course/
 author_profile: true
 ---
