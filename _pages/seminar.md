@@ -15,7 +15,10 @@ author_profile: true
 
 ## Statistical Learning, Jul. - Aug. 2021
 - Studied *The Element of Statistical Learning* and *Understanding Machine Learning*  
-![The Element of Statistical Learning image](/images/the-element-of-statistical-learning.jpg "the element of statistical learning")
+![](/images/the-element-of-statistical-learning.jpg)
+![](/images/understanding-machine-learning.jpg)
 
 ## Fourier Analysis, Jul. - Aug. 2021
 - Studied *Fourier Analysis* and led the discussion on Convergence of Fourier series and Fourier transforms of d-dimensional Euclidean spaces
+![](/images/fourier-analysis.jpg)
+
