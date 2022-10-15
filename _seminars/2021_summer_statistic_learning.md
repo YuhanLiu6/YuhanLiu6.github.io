@@ -1,3 +1,3 @@
-title: "Statistical Learning Seminar"
+title: "2021 Summer Statistical Learning Seminar"
 collection: seminars
 permalink: /seminars/statistical-learning-seminar
