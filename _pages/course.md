@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mathematics Courses I have taken"
+title: "Mathematics Courses I have taken or am taking"
 permalink: /course/
 author_profile: true
 ---
@@ -13,4 +13,4 @@ author_profile: true
 - Applied & Computational Mathematics: Operations Research, Introduction to Theoretical and Practical Data Science, Numerical Analysis, Numerical Solutions of PDE 
 
 ## Graduate Courses
-Algorithms for Convex Optimization, Advanced Probability Theory (present), PDE I (present), Methods of Applied Math (present), Computational Fluid Dynamics and Deep Learning (auditor)
+Algorithms for Convex Optimization, Advanced Probability Theory, PDE I, Methods of Applied Math, Computational Fluid Dynamics and Deep Learning (auditor)
