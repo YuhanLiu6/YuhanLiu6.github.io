@@ -20,7 +20,7 @@ author_profile: true
 <img src="/images/the-element-of-statistical-learning.jpg" style="width:25%;" /><img src="/images/understanding-machine-learning.jpg" style="width:25%;" />
 
 ## Fourier Analysis, 2021 Summer
-- Led the discussion on Convergence of Fourier series and Fourier transforms of d-dimensional Euclidean spaces. 
+- Presented and led the discussion on Convergence of Fourier series and Fourier transforms of d-dimensional Euclidean spaces. 
 
 <img src="/images/fourier-analysis.jpg" style="width:25%;" />
 
