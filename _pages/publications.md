@@ -15,7 +15,7 @@ Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling.
 
 2.Paper review on *[Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)*.
 
-3.Programming Project of Diagnosing and Forecasting Beijing PM2.5 (Python). 
+3.Diagnosing and Forecasting Beijing PM2.5 (Python). 
 
 4.Prediction of Decomposition Rates and Interspecific Interactions of Fungi (MATLAB). 
 
