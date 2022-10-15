@@ -14,8 +14,10 @@ author_profile: true
 - Studied *PINN, DeepRitz, DeepONet, FNO, and SINDy*.
 
 ## Statistical Learning, Jul. - Aug. 2021
-- Studied *The Element of Statistical Learning* and *Understanding Machine Learning*  
-![](/images/the-element-of-statistical-learning.jpg)
+- Studied *The Element of Statistical Learning* and *Understanding Machine Learning* 
+<img src="/images/understanding-machine-learning.jpg"/>
+
+
 ![](/images/understanding-machine-learning.jpg)
 
 ## Fourier Analysis, Jul. - Aug. 2021
