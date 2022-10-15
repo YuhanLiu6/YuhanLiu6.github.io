@@ -1,7 +1,7 @@
 ---
 title: "Differential Geometry"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 venue: "SUSTech, Department of Mathematics"
 date: 2022-01-01
 ---
