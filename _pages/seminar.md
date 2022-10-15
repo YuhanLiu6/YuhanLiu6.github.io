@@ -15,8 +15,8 @@ author_profile: true
 
 ## Statistical Learning, Jul. - Aug. 2021
 - Studied *The Element of Statistical Learning* and *Understanding Machine Learning* 
-- 
-<img src="/images/the-element-of-statistical-learning.jpg" width=30%/><img src="/images/understanding-machine-learning.jpg" width=30% />
+
+<img src="/images/the-element-of-statistical-learning.jpg" width=30%/><img src="/images/understanding-machine-learning.jpg" width=40% />
 
 
 ## Fourier Analysis, Jul. - Aug. 2021
