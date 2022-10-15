@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a senior undergraduate majoring in mathematics and applied mathematics at Southern University of Science and Technology (SUSTech), China. My general interest lies in computational and applied mathematics.
+I'm now a senior undergraduate majoring in mathematics and applied mathematics at Southern University of Science and Technology (SUSTech), China. My general research interests lie in computational and applied mathematics.
