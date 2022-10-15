@@ -17,9 +17,7 @@ Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling.
 
 3.Diagnosing and Forecasting Beijing PM2.5 (Python). 
 
-4.Prediction of Decomposition Rates and Interspecific Interactions of Fungi (MATLAB). 
-
-5.Checkers Programming Project (Java). 
+4.Checkers Programming Project (Java). 
 
 
 
