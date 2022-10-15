@@ -15,7 +15,7 @@ author_profile: true
 
 ## Statistical Learning, 2021 Summer
 - Studied *The Element of Statistical Learning* and *Understanding Machine Learning*. 
-- Learned Basic machine learning algorithms and PAC learning theory.
+- Learned basic machine learning algorithms and PAC learning theory.
 
 <img src="/images/the-element-of-statistical-learning.jpg" style="width:25%;" /><img src="/images/understanding-machine-learning.jpg" style="width:25%;" />
 
