@@ -9,7 +9,7 @@ Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling, e
 
 ## Research Experience
 1.Acceleration of Variable Frequency Fourier Transform (2022 Summer - present)
-- Working with Prof.Zhen Zhang at SUSTech.
+- Working with [Prof. Zhen Zhang](https://math.sustech.edu.cn/e/zhangzhen) at SUSTech.
 
 ## Course Projects
 1.Numerical simulation of elliptic equation and Allen-Cahn equation (MATLAB).
