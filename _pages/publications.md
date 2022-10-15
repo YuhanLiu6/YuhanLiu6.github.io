@@ -8,7 +8,7 @@ author_profile: true
 Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling. 
 
 ## Research Experience
-1.Acceleration of Variable Frequency Fourier Transform (present)
+1.Acceleration of Variable Frequency Fourier Transform (2022 Summer - present)
 
 ## Course Projects
 1.Numerical simulation of elliptic equation and Allen-Cahn equation (MATLAB).
