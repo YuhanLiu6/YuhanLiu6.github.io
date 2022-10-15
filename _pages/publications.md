@@ -11,7 +11,7 @@ Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling.
 1.Acceleration of Variable Frequency Fourier Transform (present)
 
 ## Course Projects
-1.Regarding Neural Networks as Gaussian Processes 
+1.Paper review on *[Deep Neural Networks as Gaussian Processes](https://arxiv.org/abs/1711.00165)*
 
 2.Programming Project of Diagnosing and Forecasting Beijing PM2.5 
 
