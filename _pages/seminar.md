@@ -8,7 +8,7 @@ author_profile: true
 
 ## Neural Differential Equations, 2022 Spring
 
-- Studied Patrick Kidger's thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)* and other relevant publications. Learned to understand neural networks from ODE and SDE.  
+- Studied Patrick Kidger's thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)* and other relevant publications.
 - Presented and led the discussion on numerical solvers of neural differential equations at the seminar, [notes](https://github.com/Hv1000/Hv1000.github.io/blob/master/files/Numerical_Solvers_of_Neural_Differential_Equations.pdf).
 
 ## Machine Learning for Solving and Learning Differential Equations, 2022 Winter
