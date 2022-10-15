@@ -9,7 +9,7 @@ author_profile: true
 - Analysis: Mathematical Analysis, Complex Analysis, Real Analysis, Functional Analysis, ODE, PDE 
 - Algebra: Linear Algebra, Abstract Algebra, Elementary Number Theory
 - Geometry: Topology, Differential Geometry
-- Probalility & Statistics: Probability Theory, Applied Stochastic Processes, Mathematical Statistics, Statistical Linear Models(auditor)  
+- Probalility & Statistics: Probability Theory, Applied Stochastic Processes, Mathematical Statistics, Statistical Linear Models (auditor)  
 - Applied & Computational Mathematics: Operations Research, Introduction to Theoretical and Practical Data Science, Numerical Analysis, Numerical Solutions of PDE 
 
 ## Graduate Courses
