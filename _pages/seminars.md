@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Seminars"
-permalink: /seminar/
+permalink: /seminars/
 author_profile: true
 ---
