@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Neural Differential Equations, 2022 Spring
 
-- Studied Patrick Kidger's thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435#:~:text=In%20particular%2C%20neural%20differential%20equations%20%28NDEs%29%20demonstrate%20that,as%20residual%20networks%20and%20recurrent%20networks%2C%20are%20discretisations.)* and other relevant publications.
+- Studied Patrick Kidger's thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)* and other relevant publications.
 - Learned to understand neural networks from ODE, CDE, and SDE.  
 - Presented and led the discussion on numerical solvers of neural differential equations at the seminar.
 
