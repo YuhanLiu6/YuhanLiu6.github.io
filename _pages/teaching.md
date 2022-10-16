@@ -5,6 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 ## MA327 Differential Geometry, 2022 Spring 
-- Teaching Assistant, Department of Mathematics, SUSTech  
-
-- Held office hours to help with student homework and quiz for Differential Geometry.
+- Teaching Assistant, Department of Mathematics, SUSTech
