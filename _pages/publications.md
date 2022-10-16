@@ -7,7 +7,7 @@ author_profile: true
 ## Research Interests
 Numerical PDE, Machine Learning in Scientific Computing, Data-driven Modeling, etc. 
 
-## Research Experience
+## Research Projects
 1.Acceleration of Variable Frequency Fourier Transform (2022 Summer - present)
 - Working with [Prof. Zhen Zhang](https://math.sustech.edu.cn/e/zhangzhen) at SUSTech.
 
