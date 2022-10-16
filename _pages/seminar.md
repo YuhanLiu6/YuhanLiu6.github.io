@@ -16,14 +16,14 @@ author_profile: true
 - Studied *[PINN](https://www.sciencedirect.com/science/article/pii/S0021999118307125)*, *[DeepRitz](https://link.springer.com/article/10.1007/s40304-018-0127-z)*, *[DeepONet](https://arxiv.org/abs/1910.03193v3)*, *[FNO](https://arxiv.org/abs/2010.08895v1)*, and *[SINDy](https://www.pnas.org/doi/10.1073/pnas.1517384113)*.
 
 ## Statistical Learning, 2021 Summer
-- Presented and led the discussion on Ridge Regression and Lasso.
-- Studied PAC learning theory covering VC-dimension, Rademacher Complexity, and convergence analysis of some machine learning algorithms.
+- Presented and led the discussion on ridge regression and Lasso.
+- Studied PAC learning theory covering VC-dimension, Rademacher complexity, and convergence analysis of some machine learning algorithms.
 
 
 <img src="/images/the-element-of-statistical-learning.jpg" style="width:25%;" /><img src="/images/understanding-machine-learning.jpg" style="width:25%;" />
 
 ## Fourier Analysis, 2021 Summer
-- Presented and led the discussion on Convergence of Fourier series and Fourier transforms of d-dimensional Euclidean spaces. 
+- Presented and led the discussion on convergence of Fourier series and Fourier transforms of d-dimensional Euclidean spaces. 
 
 <img src="/images/fourier-analysis.jpg" style="width:25%;" />
 
