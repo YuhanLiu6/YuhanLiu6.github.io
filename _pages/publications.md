@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Interests
-Applied Mathematics, Numerical PDE, Machine Learning, Data-driven Scientific Computing. 
+Numerical Analysis, Scientific Computing, Applied Mathematics, Data-driven Scientific Computing, and Mathematics
+of Machine Learning.
 
 ## Research Projects
 1.Acceleration of Variable Frequency Fourier Transform (2022 Summer - present)
