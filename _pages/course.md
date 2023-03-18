@@ -13,7 +13,9 @@ author_profile: true
 - Applied & Computational Mathematics: Operations Research, Introduction to Theoretical and Practical Data Science, Numerical Analysis, Numerical Solution of PDEs 
 
 ## Graduate Courses
-Algorithms for Convex Optimization, Advanced Probability, Methods of Applied Math, PDE I, PDE II, Advanced Functional Analysis, Computational Fluid Dynamics and Deep Learning
+- Analysis: PDE I, PDE II, Advanced Functional Analysis
+- Probalility: Advanced Probability
+- Applied & Computational Mathematics: Algorithms for Convex Optimization, Methods of Applied Math, Computational Fluid Dynamics and Deep Learning
 
 ## Self-Studying
 Optimal Transport (by reading Optimal Transport for Applied Mathematicians)
