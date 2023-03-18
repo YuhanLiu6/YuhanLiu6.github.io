@@ -4,6 +4,7 @@ title: "Seminars"
 permalink: /seminar/
 author_profile: true
 ---
+## Optimal Transport, 2023 Spring 
 ## Topics in Applied Mathematics, 2022 Fall 
 
 ## Neural Differential Equations, 2022 Spring
