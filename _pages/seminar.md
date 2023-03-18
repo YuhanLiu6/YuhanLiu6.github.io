@@ -7,8 +7,6 @@ author_profile: true
 ## Optimal Transport, 2023 Spring
 - Studying J. A. Carrillo et al.’s paper *[Primal Dual Methods for Wasserstein Gradient Flows](https://link.springer.com/article/10.1007/s10208-021-09503-1)*.
 
-## Topics in Applied Mathematics, 2022 Fall
-
 ## Scientific Machine Learning & Neural Differential Equations, 2022 Spring
 
 - Studied *[PINN](https://www.sciencedirect.com/science/article/pii/S0021999118307125)*, *[DeepRitz](https://link.springer.com/article/10.1007/s40304-018-0127-z)*, *[DeepONet](https://arxiv.org/abs/1910.03193v3)*, *[FNO](https://arxiv.org/abs/2010.08895v1)*, and *[SINDy](https://www.pnas.org/doi/10.1073/pnas.1517384113)*.
