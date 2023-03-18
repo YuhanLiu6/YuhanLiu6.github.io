@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Optimal Transport, 2023 Spring
 - Studying J. A. Carrillo et al.’s paper *[Primal Dual Methods for Wasserstein Gradient Flows](https://link.springer.com/article/10.1007/s10208-021-09503-1)*.
+
 ## Topics in Applied Mathematics, 2022 Fall
 
 ## Scientific Machine Learning & Neural Differential Equations, 2022 Spring
