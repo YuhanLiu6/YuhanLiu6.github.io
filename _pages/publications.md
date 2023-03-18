@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Interests
-Numerical Analysis, Scientific Computing, Applied Mathematics, Scientific Machine Learning
+Scientific Computing, Numerical Analysis, Applied Mathematics, Scientific Machine Learning
 
 ## Research Projects
-1.Acceleration of Variable Frequency Fourier Transform (2022 Summer - present)
+1.Acceleration of Variable Frequency Fourier Transform (2022 Summer)
 - Working with [Prof. Zhen Zhang](https://math.sustech.edu.cn/e/zhangzhen) at SUSTech.
 
 ## Course Projects
