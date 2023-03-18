@@ -6,11 +6,14 @@ author_profile: true
 ---
 
 ## Undergradute Courses
-- Analysis: Mathematical Analysis (Honors), Complex Analysis (Honors), Real Analysis (Honors), Functional Analysis, ODE (Honors), PDE (Honors)
-- Algebra: Advanced Linear Algebra, Abstract Algebra (Honors), Elementary Number Theory
+- Analysis: Mathematical Analysis, Complex Analysis, Real Analysis, Functional Analysis, ODE, PDE
+- Algebra: Advanced Linear Algebra, Abstract Algebra, Elementary Number Theory
 - Geometry: Topology, Differential Geometry
-- Probalility & Statistics: Probability Theory, Applied Stochastic Processes, Mathematical Statistics, Statistical Linear Models (auditor)  
+- Probalility & Statistics: Probability Theory, Applied Stochastic Processes, Mathematical Statistics, Statistical Linear Models 
 - Applied & Computational Mathematics: Operations Research, Introduction to Theoretical and Practical Data Science, Numerical Analysis, Numerical Solution of PDEs 
 
 ## Graduate Courses
 Algorithms for Convex Optimization, Advanced Probability, Methods of Applied Math, PDE I, PDE II, Advanced Functional Analysis, Computational Fluid Dynamics and Deep Learning
+
+## Self-Studying
+Optimal Transport (by reading Optimal Transport for Applied Mathematicians)
