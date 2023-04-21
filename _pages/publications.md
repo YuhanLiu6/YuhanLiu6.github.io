@@ -9,7 +9,7 @@ Scientific Computing, Numerical Analysis, Applied Mathematics, Scientific Machin
 
 ## Research Projects
 1.Acceleration of Variable Frequency Fourier Transform (2022 Summer)
-- Working with [Prof. Zhen Zhang](https://math.sustech.edu.cn/e/zhangzhen) at SUSTech.
+- Worked with [Prof. Zhen Zhang](https://math.sustech.edu.cn/e/zhangzhen) at SUSTech.
 
 <!-- ## Course Projects
 1.Numerical simulation of elliptic equation and Allen-Cahn equation (MATLAB).
