@@ -12,7 +12,7 @@ author_profile: true
 - Presented and led the discussion on numerical solvers of neural differential equations at the seminar, [notes](https://github.com/Hv1000/Hv1000.github.io/blob/master/files/Numerical_Solvers_of_Neural_Differential_Equations.pdf).
 
 ## Statistical Learning, 2021 Summer
-- Studied classcial machine learning algorithms and the Probably Approximately Correct (PAC) learning theory.
+- Studied classical machine learning algorithms and the Probably Approximately Correct (PAC) learning theory.
 - Presented and led the discussion on ridge regression and Lasso.
 
 <img src="/images/the-element-of-statistical-learning.jpg" style="width:25%;" /><img src="/images/understanding-machine-learning.jpg" style="width:25%;" />
