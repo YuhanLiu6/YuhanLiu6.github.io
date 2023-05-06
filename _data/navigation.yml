@@ -6,8 +6,8 @@ main:
   - title: "Seminars"
     url: /seminar/    
 
-  - title: "Courses"
-    url: /course/    
+#   - title: "Courses"
+#     url: /course/    
     
   - title: "Teaching"
     url: /teaching/      
