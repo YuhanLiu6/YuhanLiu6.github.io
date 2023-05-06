@@ -18,7 +18,7 @@ author_profile: true
 <img src="/images/the-element-of-statistical-learning.jpg" style="width:25%;" /><img src="/images/understanding-machine-learning.jpg" style="width:25%;" />
 
 ## Fourier Analysis, 2021 Summer
-- Studied classcial Fourier analysis.
+- Studied classical Fourier analysis.
 - Presented and led the discussion on convergence of Fourier series and Fourier transforms of d-dimensional Euclidean spaces. 
 
 <img src="/images/fourier-analysis.jpg" style="width:25%;" />
