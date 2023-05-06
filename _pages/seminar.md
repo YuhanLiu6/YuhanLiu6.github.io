@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Wasserstein Gradient Flows, 2023 Spring
 - Studying J. A. Carrillo et al.’s paper *[Primal Dual Methods for Wasserstein Gradient Flows](https://link.springer.com/article/10.1007/s10208-021-09503-1)*.
+- Presented and led the discussion on the Wasserstein spaces.
 
 ## Neural Differential Equations, 2022 Spring
 - Studied ResNet, variational inference, VAE, GAN, W-GAN, and Patrick Kidger's doctoral thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)*.
