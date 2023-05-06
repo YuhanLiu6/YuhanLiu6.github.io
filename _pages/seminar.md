@@ -10,7 +10,7 @@ author_profile: true
 
 ## Neural Differential Equations, 2022 Spring
 - Studied ResNet, variational inference, VAE, GAN, W-GAN, and Patrick Kidger's doctoral thesis *[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)*.
-- Presented and led the discussion on the numerical solver of neural differential equations at the seminar, [notes](https://github.com/Hv1000/Hv1000.github.io/blob/master/files/Numerical_Solvers_of_Neural_Differential_Equations.pdf).
+- Presented and led the discussion on the Numerical Solvers of Neural Differential Equations, [notes](https://github.com/Hv1000/Hv1000.github.io/blob/master/files/Numerical_Solvers_of_Neural_Differential_Equations.pdf).
 
 ## Statistical Learning, 2021 Summer
 - Studied classical machine learning algorithms and the Probably Approximately Correct (PAC) learning theory.
