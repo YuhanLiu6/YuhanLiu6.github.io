@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I will obtain my Bachelor degree in applied mathematics at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. After graduation, I will pursue my Ph.D. in mathematics at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/) from this August. My general research interests lie in computational and applied mathematics. Here is my [CV](https://hv1000.github.io/files/Yan_HUANG_CV.pdf).
+I will obtain my Bachelor degree in applied mathematics at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. From this August, I will pursue my Ph.D. in mathematics at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/). My general research interests lie in computational and applied mathematics. Here is my [CV](https://hv1000.github.io/files/Yan_HUANG_CV.pdf).
