@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yan Huang 黄䶮"
   avatar           : "profile.png"
-  bio              : "Senior Undergrduate at SUSTech"
-  location         : "Shenzhen, China"
+  bio              : #"Fresh Ph.D. at UMN"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "11911011@mail.sustech.edu.cn"
+  email            : "huan2728@umn.edu"
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
