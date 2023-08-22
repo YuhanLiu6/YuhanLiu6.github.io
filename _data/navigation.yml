@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Seminars"
-    url: /seminar/    
+ # - title: "Seminars"
+  #  url: /seminar/    
 
 #   - title: "Courses"
 #     url: /course/    
     
-  - title: "Teaching"
-    url: /teaching/      
+ # - title: "Teaching"
+   # url: /teaching/      
     
 #   - title: "CV"
 #     url: /cv/
