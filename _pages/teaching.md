@@ -4,5 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## MA327 Differential Geometry, 2022 Spring 
-- Teaching Assistant, Department of Mathematics, SUSTech
+
+## MATH 1271 Calculus I, Fall 2023
+- Teaching Assistant, School of Mathematics, UMN
