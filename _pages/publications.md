@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Interests
-Numercial Methods for Kinetic Equations, Scientific Machine Learning
+Numercial Methods for Kinetic Equations, Gradient Flows, Scientific Machine Learning
 
 ## Research Projects
 1.Acceleration of Variable Frequency Fourier Transform, SUSTech 2022 Summer
