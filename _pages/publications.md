@@ -8,7 +8,7 @@ author_profile: true
 Numercial Methods for Kinetic Equations, Gradient Flows, Scientific Machine Learning
 
 ## Research Projects
-1.Acceleration of Variable Frequency Fourier Transform, SUSTech 2022 Summer
+1.Acceleration of Variable Frequency Fourier Transform, SUSTech, Summer 2022 
 - Developed an acceleration algorithm of variable frequency Fourier transform with [Prof. Zhen Zhang](https://math.sustech.edu.cn/e/zhangzhen). 
 
 
