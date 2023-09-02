@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Interests
-Numercial Methods for Kinetic Equations 
+Numercial Methods for Kinetic Theory 
 
 Gradient Flows, Optimal Transport
 
