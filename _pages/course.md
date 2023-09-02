@@ -16,6 +16,3 @@ author_profile: true
 - Analysis: PDE I, PDE II, Advanced Functional Analysis
 - Probalility: Advanced Probability
 - Applied & Computational Mathematics: Algorithms for Convex Optimization, Methods of Applied Math, Computational Fluid Dynamics and Deep Learning
-
-## Self-Studying
-Optimal Transport (by reading Optimal Transport for Applied Mathematicians)
