@@ -7,9 +7,9 @@ author_profile: true
 ## Research Interests
 Numercial Methods for Kinetic Theory, 
 
-Gradient Flows, Optimal Transport
+Gradient Flows, Optimal Transport,
 
-Scientific Machine Learning
+Scientific Machine Learning.
 
 ## Research Projects
 1.Acceleration of Variable Frequency Fourier Transform, SUSTech, Summer 2022 
