@@ -5,5 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Mentor in mutual aid classroom at SUSTech
+## Presentation in the DRP Program at UC Berkeley
 -Mathematics Analysis II, Spring 2021
